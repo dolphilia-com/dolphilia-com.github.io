@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.DflgEAq4.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"novel/index.md","filePath":"novel/index.md","lastUpdated":null}'),a={name:"novel/index.md"};function o(r,s,d,c,i,l){return n(),t("div")}const m=e(a,[["render",o]]);export{_ as __pageData,m as default};
